@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Machine Learning and App development project"
+date: 2019-08-01 - present
+tags: [machine learning, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
+  
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
@@ -50,23 +50,37 @@ head(df)
 
 Here's some inline code `x+y`.
 
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/untitled.png" alt="linearly separable data">
 
-Here's another image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/untitled.png" alt="linearly separable data">
+Molecular Detection System (MDS) Quantification App:
 
-Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/main menu.PNG)
+
+What does it do?
+Adds ability for the 3M Molecular Detection System to not ony identify food contaminants but to quantify the contaminant as well.
+
+Why is this useful?
+Products with medium contamination can be cooked and frozen for consumer use. Products with low contamination can be sold as raw products. The product has the potential to enter a 16 million dollar market.
+
+How does it do it?
+By using Machine Learning models hosted in Azure that predicts and quantifies bacteria based on MDS data output.
+
+
+Features Manual and Automatic Saving:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/automatic.PNG)
+App automatically saves settings for future use.
+
+Main Menu:
+Features three models to choose from based on your sample (Pork, Turkey, Rinses):
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/main menu.PNG)
+
+Choose dataset to run:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/choose file.PNG)
+
+Save file (if on automatic saving skip this step):
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/save.PNG)
+
+Analyze results
+
+Error messages guide the user:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/error.PNG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
