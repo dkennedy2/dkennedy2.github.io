@@ -54,6 +54,12 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/untitled.png" alt="linearly separable data">
 
 Here's another image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
 Here's some math:
