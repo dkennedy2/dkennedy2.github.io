@@ -8,60 +8,18 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
 
 Molecular Detection System (MDS) Quantification App:
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
 
-What does it do?
+**What does it do?**
 Adds ability for the 3M Molecular Detection System to not ony identify food contaminants but to quantify the contaminant as well.
 
-Why is this useful?
+**Why is this useful?**
 Products with medium contamination can be cooked and frozen for consumer use. Products with low contamination can be sold as raw products. The product has the potential to enter a 16 million dollar market.
 
-How does it do it?
+**How does it do it?**
 By using Machine Learning models hosted in Azure that predicts and quantifies bacteria based on MDS data output.
 
 
