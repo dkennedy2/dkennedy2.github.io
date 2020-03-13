@@ -58,11 +58,11 @@ Here's another image:
 
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/main menu.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/automatic.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/choose file.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/save.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/error.PNG)
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
 Here's some math:
