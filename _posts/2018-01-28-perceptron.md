@@ -12,7 +12,6 @@ mathjax: "true"
 Molecular Detection System (MDS) Quantification:
 
 **Note:**
-
 I cannot provide code for the graphic user interface or models due to confidentiality agreements.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
@@ -29,6 +28,8 @@ Products with medium contamination can be cooked and frozen for consumer use. Pr
 
 By using Machine Learning models hosted in Azure that predicts and quantifies bacteria based on MDS data output.
 
+
+**MDS Quantification System Explored**
 
 Features Manual and Automatic Saving:
 App automatically saves settings for future use.
