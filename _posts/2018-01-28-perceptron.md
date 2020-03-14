@@ -24,8 +24,8 @@ By using Machine Learning models hosted in Azure that predicts and quantifies ba
 
 
 Features Manual and Automatic Saving:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/automatic.PNG)
 App automatically saves settings for future use.
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/automatic.PNG)
 
 Main Menu:
 Features three models to choose from based on your sample (Pork, Turkey, Rinses):
@@ -37,8 +37,14 @@ Choose dataset to run:
 Save file (if on automatic saving skip this step):
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/save.PNG)
 
-Analyze results
+Obtain results
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/results.PNG)
 
 Error messages guide the user:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/error.PNG)
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/close_error.PNG)
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/internet connection.PNG)
+
 
