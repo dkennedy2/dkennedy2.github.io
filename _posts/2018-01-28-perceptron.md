@@ -1,15 +1,16 @@
 ---
-title: "Machine Learning and App development project"
+title: "Bacteria Quantification Project"
 date: 2019-08-01 - present
-tags: [machine learning, data science, messy data]
+tags: [machine learning, data science, Graphic User Interface]
 header:
   
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Machine Learning, Data Science, Graphic User Interface"
 mathjax: "true"
 ---
 
 
-Molecular Detection System (MDS) Quantification App:
+Molecular Detection System (MDS) Quantification:
+**Note:** I cannot provide code for the graphic user interface or models due to confidentiality agreements.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
 
@@ -31,7 +32,7 @@ Main Menu:
 Features three models to choose from based on your sample (Pork, Turkey, Rinses):
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/main menu.PNG)
 
-Choose dataset to run:
+After choosing the model, choose the dataset to run:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/choose file.PNG)
 
 Save file (if on automatic saving skip this step):
