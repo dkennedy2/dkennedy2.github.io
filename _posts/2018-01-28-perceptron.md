@@ -29,6 +29,7 @@ Products with medium contamination can be cooked and frozen for consumer use. Pr
 By using Machine Learning models hosted in Azure that predicts and quantifies bacteria based on MDS data output.
 
 
+
 **MDS Quantification System Explored**
 
 Features Manual and Automatic Saving:
