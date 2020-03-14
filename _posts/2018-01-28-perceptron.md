@@ -10,17 +10,23 @@ mathjax: "true"
 
 
 Molecular Detection System (MDS) Quantification:
-**Note:** I cannot provide code for the graphic user interface or models due to confidentiality agreements.
+
+**Note:**
+
+I cannot provide code for the graphic user interface or models due to confidentiality agreements.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/Main.PNG)
 
 **What does it do?**
+
 Adds ability for the 3M Molecular Detection System to not ony identify food contaminants but to quantify the contaminant as well.
 
 **Why is this useful?**
+
 Products with medium contamination can be cooked and frozen for consumer use. Products with low contamination can be sold as raw products. The product has the potential to enter a 16 million dollar market.
 
 **How does it do it?**
+
 By using Machine Learning models hosted in Azure that predicts and quantifies bacteria based on MDS data output.
 
 
